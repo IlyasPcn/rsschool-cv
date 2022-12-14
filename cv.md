@@ -8,8 +8,8 @@
 ***
 
 * **Location**: Volgograd, Russia.  
-* **Phone**: +7-909-388-91-64.  
-* **Email**: pchelinilya13@gmail.com.  
+* **Phone**: +7-909-388-90-64.  
+* **Email**: l4767e@gmail.com.  
 * **Github**: [IlyasPcn](https://github.com/IlyasPcn "gihub")  
 
 ***
@@ -17,7 +17,7 @@
 
 ### About me
 ***
-Hey there! I'm just gonna have some fun on this course!
+Hey there! I'm just a regular guy who's coding for fun.
 
 ***
 
