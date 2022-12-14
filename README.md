@@ -1,1 +1,1 @@
-**[CV MARKDOWN](https://IlyasPcn.github.io/rsschool-cv/cv)**
+**[CV HTML & CSS](https://IlyasPcn.github.io/rsschool-cv/)**
