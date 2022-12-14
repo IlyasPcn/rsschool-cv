@@ -85,10 +85,20 @@ button {
 .footer__github { 
     background-color: #fff;
     border-radius: 8px;
+    transition: opacity 0.2s ease-in;
+}
+.footer__github:hover { 
+    opacity: 0.5;
 }
 .footer__year { 
     font-size: 32px;
     font-weight: 800;
+}
+.footer__logo { 
+    transition: opacity 0.2s ease-in;
+}
+.footer__logo:hover{ 
+    opacity: 0.5;
 }
 .block { 
     display: flex;
@@ -155,4 +165,16 @@ button {
 }
 .cv-link { 
     opacity: 0.5;
+}
+.cv-link { 
+    transition: opacity 0.2s ease-in;
+}
+.cv-link:hover { 
+    opacity: 0.8;
+}
+.git { 
+    transition: opacity 0.2s ease-in;
+}
+.git:hover { 
+    opacity: 0.8;
 }
