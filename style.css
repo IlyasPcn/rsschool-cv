@@ -60,10 +60,14 @@ button {
 .footer { 
     height: 70px;
     background-color: black;
+    margin-top: 40px;
+    flex: 0 0 auto;
 }
 .header { 
     height: 50px;
-    background-color: #000;
+    background-color: #161b22;
+    margin-bottom: 40px;
+    flex: 0 0 auto;
 }
 .nav__list{ 
     display: flex;
@@ -72,22 +76,20 @@ button {
     height: 100%;
 
 }
+.nav__list-item{ 
+    transition: opacity 0.2s ease-in;
+}
+.nav__list-item:hover { 
+    opacity: 0.5;
+}
 .nav {
     height: 100%;
 }
-.main__aside { 
-    width: 30%;
-    display: flex;
-    flex-direction: column;
+.footer__github { 
+    background-color: #fff;
+    border-radius: 8px;
 }
-.main__part{ 
-    width: 70%;
-    display: flex;
-    flex-direction: column;
-}
-.cell-1 { 
-    flex: 0 0 33.3%;
-}
-.cell-2 { 
-    flex: 0 0 25%;
+.footer__year { 
+    font-size: 32px;
+    font-weight: 800;
 }
